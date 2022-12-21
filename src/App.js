@@ -67,7 +67,7 @@ function App() {
             <>
               <div className="flex flex-col justify-center items-center m-60">
                 <p className="text-4xl text-white font-thin">
-                  Select a place from above listed
+                  Select a place from above
                 </p>
                 <p className="text-4xl text-white font-thin">OR</p>
                 <p className="text-4xl text-white font-thin">
